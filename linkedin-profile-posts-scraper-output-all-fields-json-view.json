@@ -1,0 +1,1166 @@
+[{
+  "rowType": "post",
+  "postId": "urn:li:activity:7514393874887270401",
+  "urn": "urn:li:activity:7514393874887270401",
+  "activityId": "7514393874887270401",
+  "postUrl": "https://www.linkedin.com/posts/satyanadella_introducing-microsoft-decision-1-our-new-activity-7514393874887270401-thi6",
+  "postType": "POST",
+  "text": "Introducing Microsoft-Decision-1, our new model for fast decision-making.\n\nIt delivers top performance on structured decision tasks, outperforming both LLMs and other decision models in latency and quality.\n\nWe’re already testing it across Microsoft for everything from incident response and quality control to scientific discovery.\n\nAvailable now in Foundry and soon through OpenRouter: https://lnkd.in/gNh5aW8b",
+  "publishedAt": "2026-10-09T18:38:30.459Z",
+  "publishedAtSource": "post",
+  "isEdited": false,
+  "author": {
+    "name": "Satya Nadella",
+    "headline": "Chairman and CEO at Microsoft",
+    "profileUrl": "https://www.linkedin.com/in/satyanadella/",
+    "publicIdentifier": "satyanadella",
+    "profileId": "urn:li:member:19186432",
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQHHUuOSlRVA1w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1579726625398?e=2147483647&v=beta&t=Rr7WT9uBM0byOij0oT_KirejIMVE4HK4r8NGIp0zjdI"
+  },
+  "engagement": {
+    "reactionsCount": 5273,
+    "commentsCount": 241,
+    "repostsCount": null,
+    "reactionBreakdown": null,
+    "topReactionTypes": [
+      "LIKE",
+      "CELEBRATE",
+      "LOVE"
+    ]
+  },
+  "hashtags": [],
+  "mentions": [],
+  "media": [
+    {
+      "type": "VIDEO",
+      "url": "https://dms.licdn.com/playlist/vid/v2/D5605AQEGTbLwnI83Fg/mp4-640p-30fp-crf28/B56aEh9ZGNIABk-/0/1791571105798?e=2147483647&v=beta&t=6JrwMMNQcRErvoTGvMWx8RrTtVFr4rsRE3AcPTj4iIo",
+      "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D5605AQEGTbLwnI83Fg/videocover-high/B56aEh9ZGNIABM-/0/1791571105315?e=2147483647&v=beta&t=o9-L0_x4GTPEhiSuF_BIiqVx7p3xV7wt975UjUgtLDg",
+      "title": null,
+      "description": null,
+      "width": 1280,
+      "height": 720,
+      "durationSeconds": 10
+    }
+  ],
+  "article": null,
+  "externalLinks": [
+    "https://lnkd.in/gNh5aW8b"
+  ],
+  "isRepost": false,
+  "isQuotePost": false,
+  "originalPost": null,
+  "topComments": [],
+  "dataQuality": "FULL",
+  "positionInFeed": 1,
+  "discoveredVia": "public_profile",
+  "sourceProfileUrl": "https://www.linkedin.com/in/satyanadella/",
+  "sourceProfileName": "Satya Nadella",
+  "input": "https://www.linkedin.com/in/satyanadella/",
+  "scrapedAt": "2026-10-10T12:22:24.460Z"
+},
+{
+  "rowType": "post",
+  "postId": "urn:li:activity:7513980032831078400",
+  "urn": "urn:li:activity:7513980032831078400",
+  "activityId": "7513980032831078400",
+  "postUrl": "https://www.linkedin.com/posts/satyanadella_the-infinite-saas-factory-activity-7513980032831078400-dyiq",
+  "postType": "ARTICLE",
+  "text": "Our opportunity is to reinvent systems of record for an agentic world, not just build new experiences on top of them, while giving every business an entirely new way to orchestrate work and build what is missing. I believe all this can reset business SaaS.\n\nThat is the direction we are taking at Microsoft: Copilot as a new OS for work, with a governed infinite SaaS factory built in.",
+  "publishedAt": "2026-10-08T15:14:02.823Z",
+  "publishedAtSource": "post",
+  "isEdited": false,
+  "author": {
+    "name": "Satya Nadella",
+    "headline": "Chairman and CEO at Microsoft",
+    "profileUrl": "https://www.linkedin.com/in/satyanadella/",
+    "publicIdentifier": "satyanadella",
+    "profileId": "urn:li:member:19186432",
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQHHUuOSlRVA1w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1579726625398?e=2147483647&v=beta&t=Rr7WT9uBM0byOij0oT_KirejIMVE4HK4r8NGIp0zjdI"
+  },
+  "engagement": {
+    "reactionsCount": 3713,
+    "commentsCount": 393,
+    "repostsCount": null,
+    "reactionBreakdown": null,
+    "topReactionTypes": [
+      "LIKE",
+      "INSIGHTFUL",
+      "LOVE"
+    ]
+  },
+  "hashtags": [],
+  "mentions": [],
+  "media": [
+    {
+      "type": "ARTICLE",
+      "url": "https://www.linkedin.com/pulse/infinite-saas-factory-satya-nadella-1vwte",
+      "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D5612AQEX_FEaL2IwOA/article-cover_image-shrink_720_1280/B56aEb6tfgKEAQ-/0/1791469738211?e=2147483647&v=beta&t=HWnTLW92WZaFzFK--0u2kDneXKdRspSVr6NGu84jiOA",
+      "title": "The Infinite SaaS Factory",
+      "description": null,
+      "width": null,
+      "height": null
+    }
+  ],
+  "article": {
+    "url": "https://www.linkedin.com/pulse/infinite-saas-factory-satya-nadella-1vwte",
+    "title": "The Infinite SaaS Factory",
+    "description": null,
+    "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D5612AQEX_FEaL2IwOA/article-cover_image-shrink_720_1280/B56aEb6tfgKEAQ-/0/1791469738211?e=2147483647&v=beta&t=HWnTLW92WZaFzFK--0u2kDneXKdRspSVr6NGu84jiOA",
+    "publisher": "Satya Nadella"
+  },
+  "externalLinks": [],
+  "isRepost": false,
+  "isQuotePost": false,
+  "originalPost": null,
+  "topComments": [],
+  "dataQuality": "FULL",
+  "positionInFeed": 2,
+  "discoveredVia": "public_profile",
+  "sourceProfileUrl": "https://www.linkedin.com/in/satyanadella/",
+  "sourceProfileName": "Satya Nadella",
+  "input": "https://www.linkedin.com/in/satyanadella/",
+  "scrapedAt": "2026-10-10T12:22:24.116Z"
+},
+{
+  "rowType": "post",
+  "postId": "urn:li:activity:7513685659505750016",
+  "urn": "urn:li:activity:7513685659505750016",
+  "activityId": "7513685659505750016",
+  "postUrl": "https://www.linkedin.com/posts/satyanadella_were-supercharging-copilot-on-windows-with-activity-7513685659505750016-t9yx",
+  "postType": "POST",
+  "text": "We’re supercharging Copilot on Windows with Hybrid Intelligence.\n\nWith your permission, Copilot can tap into the context on your PC, take action for you, and use local models when it makes sense, giving you more capability while helping your tokens go further.\n\nRead more: https://lnkd.in/gFaRcv_X",
+  "publishedAt": "2026-10-07T19:44:18.754Z",
+  "publishedAtSource": "post",
+  "isEdited": false,
+  "author": {
+    "name": "Satya Nadella",
+    "headline": "Chairman and CEO at Microsoft",
+    "profileUrl": "https://www.linkedin.com/in/satyanadella/",
+    "publicIdentifier": "satyanadella",
+    "profileId": "urn:li:member:19186432",
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQHHUuOSlRVA1w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1579726625398?e=2147483647&v=beta&t=Rr7WT9uBM0byOij0oT_KirejIMVE4HK4r8NGIp0zjdI"
+  },
+  "engagement": {
+    "reactionsCount": 5813,
+    "commentsCount": 256,
+    "repostsCount": null,
+    "reactionBreakdown": null,
+    "topReactionTypes": [
+      "LIKE",
+      "CELEBRATE",
+      "LOVE"
+    ]
+  },
+  "hashtags": [],
+  "mentions": [],
+  "media": [
+    {
+      "type": "VIDEO",
+      "url": "https://dms.licdn.com/playlist/vid/v2/D5605AQFYMOj4l2HEhQ/mp4-720p-30fp-crf28/B56aEX5PYUGcCA-/0/1791402251284?e=2147483647&v=beta&t=YJNlrHIaa49z6Wr9UdISyFOrGbtg7DAvqnMFo7sOG94",
+      "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D5605AQFYMOj4l2HEhQ/videocover-high/B56aEX5PYUGcBQ-/0/1791402246792?e=2147483647&v=beta&t=_y7mDKj5G46opUnnb3cO2mMAS5epn5yOT-ahvAEh7BA",
+      "title": null,
+      "description": null,
+      "width": 1280,
+      "height": 720,
+      "durationSeconds": 57
+    }
+  ],
+  "article": null,
+  "externalLinks": [
+    "https://lnkd.in/gFaRcv_X"
+  ],
+  "isRepost": false,
+  "isQuotePost": false,
+  "originalPost": null,
+  "topComments": [],
+  "dataQuality": "FULL",
+  "positionInFeed": 3,
+  "discoveredVia": "public_profile",
+  "sourceProfileUrl": "https://www.linkedin.com/in/satyanadella/",
+  "sourceProfileName": "Satya Nadella",
+  "input": "https://www.linkedin.com/in/satyanadella/",
+  "scrapedAt": "2026-10-10T12:22:24.508Z"
+},
+{
+  "rowType": "post",
+  "postId": "urn:li:activity:7513664726296354817",
+  "urn": "urn:li:activity:7513664726296354817",
+  "activityId": "7513664726296354817",
+  "postUrl": "https://www.linkedin.com/posts/satyanadella_today-marks-a-new-chapter-for-windows-as-activity-7513664726296354817-fo_m",
+  "postType": "POST",
+  "text": "Today marks a new chapter for Windows, as we bring unmetered intelligence to every desk and every home, and make every PC a place where agents can work securely on your behalf.\n\nSome highlights of what we announced:\n\n• MAI-Code-1.1 Flash: 137B parameter coding model w/ 256K context window, which is now optimized to run on your PC!\n\n• GitHub Copilot now hands off work to local models like MAI-Code-1.1 Flash, helping projects cost a lot less without sacrificing quality.\n\n• With Hybrid Intelligence, Copilot can now take action directly on the PC and keep sensitive work on your device.\n\n• And with Code in Copilot, you can essentially build any software you need on your desktop, without any cloud token spend, and it’s just super at it. You’re no longer limited to what’s in an app store! Your PC becomes an infinite software factory.\n\n• Security is foundational to all this, which is why we are also bringing together Windows and Agent 365 so agents can work within secure boundaries on-device, including MXC a local sandbox for agent execution. Windows becomes your secure agent box!\n\n• All this comes to life on a new generation of devices, like Surface Laptop Ultra, powered by NVIDIA RTX Spark.\n\nCan’t wait to see what you build with all this.\n\nRead more about what we announced: https://lnkd.in/gFaRcv_X",
+  "publishedAt": "2026-10-07T18:21:07.888Z",
+  "publishedAtSource": "post",
+  "isEdited": false,
+  "author": {
+    "name": "Satya Nadella",
+    "headline": "Chairman and CEO at Microsoft",
+    "profileUrl": "https://www.linkedin.com/in/satyanadella/",
+    "publicIdentifier": "satyanadella",
+    "profileId": "urn:li:member:19186432",
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQHHUuOSlRVA1w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1579726625398?e=2147483647&v=beta&t=Rr7WT9uBM0byOij0oT_KirejIMVE4HK4r8NGIp0zjdI"
+  },
+  "engagement": {
+    "reactionsCount": 17620,
+    "commentsCount": 703,
+    "repostsCount": null,
+    "reactionBreakdown": null,
+    "topReactionTypes": [
+      "LIKE",
+      "CELEBRATE",
+      "LOVE"
+    ]
+  },
+  "hashtags": [],
+  "mentions": [],
+  "media": [
+    {
+      "type": "IMAGE",
+      "url": "https://media.licdn.com/dms/image/v2/D5622AQHApA0RfkVk6Q/feedshare-shrink_800/B56aEXmQKTIsAc-/0/1791397266404?e=2147483647&v=beta&t=LPqd7nAiF1lojYjW4Q-Q9PlTTdcDMhxO4nV_uq2dq3A",
+      "thumbnailUrl": null,
+      "title": null,
+      "description": "graphical user interface, application",
+      "width": null,
+      "height": null
+    }
+  ],
+  "article": null,
+  "externalLinks": [
+    "https://lnkd.in/gFaRcv_X"
+  ],
+  "isRepost": false,
+  "isQuotePost": false,
+  "originalPost": null,
+  "topComments": [],
+  "dataQuality": "FULL",
+  "positionInFeed": 4,
+  "discoveredVia": "public_profile",
+  "sourceProfileUrl": "https://www.linkedin.com/in/satyanadella/",
+  "sourceProfileName": "Satya Nadella",
+  "input": "https://www.linkedin.com/in/satyanadella/",
+  "scrapedAt": "2026-10-10T12:22:25.311Z"
+},
+{
+  "rowType": "post",
+  "postId": "urn:li:activity:7510854041028108288",
+  "urn": "urn:li:activity:7510854041028108288",
+  "activityId": "7510854041028108288",
+  "postUrl": "https://www.linkedin.com/posts/satyanadella_introducing-hiring-assistant-2-more-advanced-activity-7510854041028108288-Qs83",
+  "postType": "QUOTE_POST",
+  "text": "Looking forward to seeing how recruiters use our new Hiring Assistant to help connect the right people with the right opportunities!",
+  "publishedAt": "2026-09-30T00:12:28.300Z",
+  "publishedAtSource": "post",
+  "isEdited": false,
+  "author": {
+    "name": "Satya Nadella",
+    "headline": "Chairman and CEO at Microsoft",
+    "profileUrl": "https://www.linkedin.com/in/satyanadella/",
+    "publicIdentifier": "satyanadella",
+    "profileId": "urn:li:member:19186432",
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQHHUuOSlRVA1w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1579726625398?e=2147483647&v=beta&t=Rr7WT9uBM0byOij0oT_KirejIMVE4HK4r8NGIp0zjdI"
+  },
+  "engagement": {
+    "reactionsCount": 918,
+    "commentsCount": 147,
+    "repostsCount": null,
+    "reactionBreakdown": null,
+    "topReactionTypes": [
+      "LIKE",
+      "CELEBRATE",
+      "LOVE"
+    ]
+  },
+  "hashtags": [],
+  "mentions": [],
+  "media": [],
+  "article": null,
+  "externalLinks": [],
+  "isRepost": false,
+  "isQuotePost": true,
+  "originalPost": {
+    "postId": null,
+    "postUrl": null,
+    "author": {
+      "name": "Dan Reid",
+      "headline": null,
+      "profileUrl": "https://www.linkedin.com/in/reiddan/",
+      "publicIdentifier": "reiddan",
+      "profileId": null,
+      "profilePictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQGezcUukJB__w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1515628332180?e=2147483647&v=beta&t=tc1tZuhTbOyjoqZ4BAkXszPyDUidx14-skeBfjZ326w",
+      "type": "PERSON"
+    },
+    "text": "At LinkedIn, every day we talk to recruiters around the world, and what we know for certain is that hiring has become more complex. More applications, pressure to find the right candidates, and you dont know who is real.\n\nThat’s why, after two years of building Hiring Assistant alongside our customers, today we’re announcing that Hiring Assistant 2 will launch in November!\n\nOur next generation Hiring Assistant is powered by advances in reasoning models, meaning it has a deeper understanding of how recruiters hire. It can identify stronger candidate matches, bring more relevant context into the hiring process, and manage an entire talent pool in one place, so you dont have to spend time switching between systems. The result is simple: more time back to actually be recruiters.\n\nCheck out the article below to learn more about whats new in Hiring Assistant 2, and a huge thank you to the many teams across LinkedIn who helped make it happen!\n\nhttps://lnkd.in/dcZshVES",
+    "publishedAt": null,
+    "hashtags": [],
+    "mentions": [],
+    "media": [
+      {
+        "type": "ARTICLE",
+        "url": "https://www.linkedin.com/pulse/introducing-hiring-assistant-2-more-advanced-ffdyf",
+        "title": "Introducing Hiring Assistant 2: More Advanced Reasoning, Memory and Personalization to Deliver Better Candidate Results",
+        "description": null,
+        "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4D12AQH24UJ4Pnea2A/article-cover_image-shrink_600_2000/B4DaDZtzWOGsAM-/0/1790359058334?e=2147483647&v=beta&t=nfTnrz-tCtxrLuS06XIt34jCaKUqZOPBmcehdZy5Ttw",
+        "publisher": "LinkedIn Talent Solutions",
+        "width": null,
+        "height": null
+      }
+    ],
+    "engagement": null
+  },
+  "topComments": [],
+  "dataQuality": "FULL",
+  "positionInFeed": 5,
+  "discoveredVia": "public_profile",
+  "sourceProfileUrl": "https://www.linkedin.com/in/satyanadella/",
+  "sourceProfileName": "Satya Nadella",
+  "input": "https://www.linkedin.com/in/satyanadella/",
+  "scrapedAt": "2026-10-10T12:22:30.620Z"
+},
+{
+  "rowType": "post",
+  "postId": "urn:li:activity:7510804023168421888",
+  "urn": "urn:li:activity:7510804023168421888",
+  "activityId": "7510804023168421888",
+  "postUrl": "https://www.linkedin.com/posts/satyanadella_ai-is-only-as-useful-as-the-context-it-can-activity-7510804023168421888-rUkL",
+  "postType": "QUOTE_POST",
+  "text": "AI is only as useful as the context it can reason over. With Fabric IQ now generally available in Copilot, you can ask questions of your enterprise data and get answers grounded in trusted business context, right where you work.",
+  "publishedAt": "2026-09-29T20:53:43.113Z",
+  "publishedAtSource": "post",
+  "isEdited": false,
+  "author": {
+    "name": "Satya Nadella",
+    "headline": "Chairman and CEO at Microsoft",
+    "profileUrl": "https://www.linkedin.com/in/satyanadella/",
+    "publicIdentifier": "satyanadella",
+    "profileId": "urn:li:member:19186432",
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQHHUuOSlRVA1w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1579726625398?e=2147483647&v=beta&t=Rr7WT9uBM0byOij0oT_KirejIMVE4HK4r8NGIp0zjdI"
+  },
+  "engagement": {
+    "reactionsCount": 901,
+    "commentsCount": 137,
+    "repostsCount": null,
+    "reactionBreakdown": null,
+    "topReactionTypes": [
+      "LIKE",
+      "CELEBRATE",
+      "LOVE"
+    ]
+  },
+  "hashtags": [],
+  "mentions": [],
+  "media": [],
+  "article": null,
+  "externalLinks": [],
+  "isRepost": false,
+  "isQuotePost": true,
+  "originalPost": {
+    "postId": null,
+    "postUrl": null,
+    "author": {
+      "name": "Arun Ulag",
+      "headline": null,
+      "profileUrl": "https://www.linkedin.com/in/arunulag/",
+      "publicIdentifier": "arunulag",
+      "profileId": null,
+      "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQGpxm8hlgGksA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1675629080077?e=2147483647&v=beta&t=nlJL3HfZIIMvozZjOlV32YQqlYF1UuwRCXFCjpOO2uQ",
+      "type": "PERSON"
+    },
+    "text": "Today, I’m in Barcelona with our #FabCon and #SQLCon communities, sharing what’s next across Microsoft Fabric and our database portfolio.\n\nAI needs more than capable models. It needs your business data, your knowledge, and the context that makes your organization unique.\n\nHere are a few of today’s announcements:\n\n✅ Fabric IQ in Microsoft Copilot Chat and Cowork, generally available today, brings trusted business context into your Copilot experience.\n\n✅ Apps in Power BI, entering preview in the coming weeks, will let people use natural language to build operational applications from trusted semantic models, powered by Fabric Apps.\n\n✅ Database Hub in Fabric, now in preview, brings monitoring, governance, and management of your database estate into one experience.\n\n✅ SQL Server on Azure Local, now generally available, gives customers more flexibility to run workloads close to their operations while maintaining control over where their data resides.\n\nLess time connecting the pieces. More time putting your data and business knowledge to work.\n\nRead more in my blog linked below 👇\n\n#MicrosoftFabric #PowerBI",
+    "publishedAt": null,
+    "hashtags": [
+      "fabcon",
+      "sqlcon",
+      "microsoftfabric",
+      "powerbi"
+    ],
+    "mentions": [],
+    "media": [],
+    "engagement": null
+  },
+  "topComments": [],
+  "dataQuality": "FULL",
+  "positionInFeed": 6,
+  "discoveredVia": "public_profile",
+  "sourceProfileUrl": "https://www.linkedin.com/in/satyanadella/",
+  "sourceProfileName": "Satya Nadella",
+  "input": "https://www.linkedin.com/in/satyanadella/",
+  "scrapedAt": "2026-10-10T12:22:25.702Z"
+},
+{
+  "rowType": "post",
+  "postId": "urn:li:activity:7509282507121512449",
+  "urn": "urn:li:activity:7509282507121512449",
+  "activityId": "7509282507121512449",
+  "postUrl": "https://www.linkedin.com/posts/deirdre-bosa-05374518_the-first-db-live-interview-is-live-activity-7509282507121512449-RkPY",
+  "postType": "REPOST",
+  "text": null,
+  "publishedAt": "2026-09-25T16:07:45.419Z",
+  "publishedAtSource": "original_post",
+  "isEdited": false,
+  "author": {
+    "name": "Satya Nadella",
+    "headline": "Chairman and CEO at Microsoft",
+    "profileUrl": "https://www.linkedin.com/in/satyanadella/",
+    "publicIdentifier": "satyanadella",
+    "profileId": "urn:li:member:19186432",
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQHHUuOSlRVA1w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1579726625398?e=2147483647&v=beta&t=Rr7WT9uBM0byOij0oT_KirejIMVE4HK4r8NGIp0zjdI"
+  },
+  "engagement": {
+    "reactionsCount": null,
+    "commentsCount": null,
+    "repostsCount": null,
+    "reactionBreakdown": null,
+    "topReactionTypes": []
+  },
+  "hashtags": [],
+  "mentions": [],
+  "media": [],
+  "article": null,
+  "externalLinks": [],
+  "isRepost": true,
+  "isQuotePost": false,
+  "originalPost": {
+    "postId": "urn:li:activity:7509282507121512449",
+    "postUrl": "https://www.linkedin.com/posts/deirdre-bosa-05374518_the-first-db-live-interview-is-live-activity-7509282507121512449-RkPY",
+    "author": {
+      "name": "Deirdre Bosa",
+      "headline": null,
+      "profileUrl": "https://www.linkedin.com/in/deirdre-bosa-05374518/",
+      "publicIdentifier": "deirdre-bosa-05374518",
+      "profileId": null,
+      "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQFFZ13J9tfPJA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715790724455?e=2147483647&v=beta&t=LSj9miEcR_y_fQowq3-Cp_fbN5C9OQYE1fbMQpyCDF4",
+      "type": "PERSON"
+    },
+    "text": "The first DB Live interview is.... live.\n\nI sat down with Satya Nadella at Microsoft this week around the launch of the new Copilot.\nThe takeaway: Microsoft is betting that the next phase of AI is a product race, not a model race. Copilot can choose among models underneath while Microsoft tries to remain the layer enterprises use to actually get work done.\n\nThe potential secret weapon is Autopilot (what I’ve been calling Muse for Business). It knows your workflows, sits across the apps and data you already use, and keeps working even when you step away.  It’s a preview of the battle to come in enterprise AI. OpenAI and Anthropic are racing from models into products. Can they build their own version of this? And can they match Microsoft on the boring-but-critical stuff: permissions, identity, auditability and control, as agents become more autonomous?\n\nWe also talk open vs. closed models, US-China Summit, regulation and the infrastructure buildout.\n\nWatch the full interview on YouTube, X or Yahoo Finance\nhttps://lnkd.in/gzwJK6AC\nhttps://lnkd.in/gn_Gd_KW",
+    "publishedAt": "2026-09-25T16:07:45.419Z",
+    "hashtags": [],
+    "mentions": [
+      {
+        "name": "Microsoft",
+        "type": "COMPANY",
+        "url": "https://www.linkedin.com/company/microsoft/",
+        "publicIdentifier": "microsoft",
+        "id": null
+      }
+    ],
+    "media": [
+      {
+        "type": "VIDEO",
+        "url": "https://dms.licdn.com/playlist/vid/v2/D5605AQEIxwTaGN7vYg/mp4-640p-30fp-crf28/B56aDZUmfWGcBk-/0/1790352458424?e=2147483647&v=beta&t=BS7SVFl5O4_qRxnUAjIJqrrjw-PYhKpNHoFWVgXEXxs",
+        "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D5605AQEIxwTaGN7vYg/videocover-high/B56aDZUmfWGcBM-/0/1790352455511?e=2147483647&v=beta&t=HCAuU1SY2cpLO3jh3gM28PxjK2a7hrMnzX8SVd7Dupg",
+        "title": null,
+        "description": null,
+        "width": 1280,
+        "height": 720,
+        "durationSeconds": 30
+      }
+    ],
+    "article": null,
+    "externalLinks": [
+      "https://lnkd.in/gzwJK6AC",
+      "https://lnkd.in/gn_Gd_KW"
+    ],
+    "engagement": {
+      "reactionsCount": 1204,
+      "commentsCount": 129,
+      "repostsCount": null,
+      "reactionBreakdown": null,
+      "topReactionTypes": [
+        "LIKE",
+        "CELEBRATE",
+        "LOVE"
+      ]
+    }
+  },
+  "topComments": [],
+  "dataQuality": "FULL",
+  "positionInFeed": 7,
+  "discoveredVia": "public_profile",
+  "sourceProfileUrl": "https://www.linkedin.com/in/satyanadella/",
+  "sourceProfileName": "Satya Nadella",
+  "input": "https://www.linkedin.com/in/satyanadella/",
+  "scrapedAt": "2026-10-10T12:22:28.908Z"
+},
+{
+  "rowType": "post",
+  "postId": "urn:li:activity:7509275131022794752",
+  "urn": "urn:li:activity:7509275131022794752",
+  "activityId": "7509275131022794752",
+  "postUrl": "https://www.linkedin.com/posts/alexeheath_satya-nadella-on-microsofts-agent-bet-and-activity-7509275131022794752-lULZ",
+  "postType": "REPOST",
+  "text": null,
+  "publishedAt": "2026-09-25T15:38:26.820Z",
+  "publishedAtSource": "original_post",
+  "isEdited": true,
+  "author": {
+    "name": "Satya Nadella",
+    "headline": "Chairman and CEO at Microsoft",
+    "profileUrl": "https://www.linkedin.com/in/satyanadella/",
+    "publicIdentifier": "satyanadella",
+    "profileId": "urn:li:member:19186432",
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQHHUuOSlRVA1w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1579726625398?e=2147483647&v=beta&t=Rr7WT9uBM0byOij0oT_KirejIMVE4HK4r8NGIp0zjdI"
+  },
+  "engagement": {
+    "reactionsCount": null,
+    "commentsCount": null,
+    "repostsCount": null,
+    "reactionBreakdown": null,
+    "topReactionTypes": []
+  },
+  "hashtags": [],
+  "mentions": [],
+  "media": [],
+  "article": null,
+  "externalLinks": [],
+  "isRepost": true,
+  "isQuotePost": false,
+  "originalPost": {
+    "postId": "urn:li:activity:7509275131022794752",
+    "postUrl": "https://www.linkedin.com/posts/alexeheath_satya-nadella-on-microsofts-agent-bet-and-activity-7509275131022794752-lULZ",
+    "author": {
+      "name": "Alex Heath",
+      "headline": null,
+      "profileUrl": "https://www.linkedin.com/in/alexeheath/",
+      "publicIdentifier": "alexeheath",
+      "profileId": null,
+      "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQEiVWAyiy6hLw/profile-displayphoto-scale_200_200/B56ZouHMd2JoAY-/0/1761710231957?e=2147483647&v=beta&t=KaoeH0zucEm0PgyhdDDsuL5BiK3hCcklrJp85sXMAFg",
+      "type": "PERSON"
+    },
+    "text": "Microsoft CEO Satya Nadella thinks AI agents will create a market “orders of magnitude” bigger than the cloud.\n\nI recently sat down with him in Seattle for the unveiling of the new Copilot. We discuss Autopilot, Microsoft’s new OpenClaw-based agent that can work on your behalf, and why he thinks newer AI models are finally capable of delivering on more of Copilot’s promise.\n\nNadella also has a blunt assessment of the AI industry: “We are way too self-obsessed.” I ask him why the industry has struggled to explain its benefits and what it will take to earn people’s trust. We get into his concerns about agents acting deceptively, when a safety problem should stop a release, and why he doesn’t want AI oversight to become a “cartel-like arrangement.”\n\nThanks to the show's premiere sponsors: Mercury, Granola, and Atlassian\n\nhttps://lnkd.in/ghuApwYe",
+    "publishedAt": "2026-09-25T15:38:26.820Z",
+    "hashtags": [],
+    "mentions": [
+      {
+        "name": "Microsoft",
+        "type": "COMPANY",
+        "url": "https://www.linkedin.com/company/microsoft/",
+        "publicIdentifier": "microsoft",
+        "id": null
+      },
+      {
+        "name": "Satya Nadella",
+        "type": "PERSON",
+        "url": "https://www.linkedin.com/in/satyanadella/",
+        "publicIdentifier": "satyanadella",
+        "id": null
+      },
+      {
+        "name": "Mercury",
+        "type": "COMPANY",
+        "url": "https://www.linkedin.com/company/mercuryhq/",
+        "publicIdentifier": "mercuryhq",
+        "id": null
+      },
+      {
+        "name": "Granola",
+        "type": "COMPANY",
+        "url": "https://www.linkedin.com/company/meetgranola/",
+        "publicIdentifier": "meetgranola",
+        "id": null
+      },
+      {
+        "name": "Atlassian",
+        "type": "COMPANY",
+        "url": "https://www.linkedin.com/company/atlassian/",
+        "publicIdentifier": "atlassian",
+        "id": null
+      }
+    ],
+    "media": [],
+    "article": null,
+    "externalLinks": [
+      "https://lnkd.in/ghuApwYe"
+    ],
+    "engagement": {
+      "reactionsCount": 294,
+      "commentsCount": 48,
+      "repostsCount": null,
+      "reactionBreakdown": null,
+      "topReactionTypes": [
+        "LIKE",
+        "INSIGHTFUL",
+        "CELEBRATE"
+      ]
+    }
+  },
+  "topComments": [],
+  "dataQuality": "FULL",
+  "positionInFeed": 8,
+  "discoveredVia": "public_profile",
+  "sourceProfileUrl": "https://www.linkedin.com/in/satyanadella/",
+  "sourceProfileName": "Satya Nadella",
+  "input": "https://www.linkedin.com/in/satyanadella/",
+  "scrapedAt": "2026-10-10T12:22:26.912Z"
+},
+{
+  "rowType": "post",
+  "postId": "urn:li:activity:7509276499837902849",
+  "urn": "urn:li:activity:7509276499837902849",
+  "activityId": "7509276499837902849",
+  "postUrl": "https://www.linkedin.com/posts/satyanadella_the-motivation-behind-the-new-copilot-intelligence-activity-7509276499837902849-DFP-",
+  "postType": "QUOTE_POST",
+  "text": "The motivation behind the new Copilot: intelligence is accelerating fast. Now we need to diffuse it everywhere.",
+  "publishedAt": "2026-09-25T15:43:53.171Z",
+  "publishedAtSource": "post",
+  "isEdited": false,
+  "author": {
+    "name": "Satya Nadella",
+    "headline": "Chairman and CEO at Microsoft",
+    "profileUrl": "https://www.linkedin.com/in/satyanadella/",
+    "publicIdentifier": "satyanadella",
+    "profileId": "urn:li:member:19186432",
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQHHUuOSlRVA1w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1579726625398?e=2147483647&v=beta&t=Rr7WT9uBM0byOij0oT_KirejIMVE4HK4r8NGIp0zjdI"
+  },
+  "engagement": {
+    "reactionsCount": 990,
+    "commentsCount": 102,
+    "repostsCount": null,
+    "reactionBreakdown": null,
+    "topReactionTypes": [
+      "LIKE",
+      "CELEBRATE",
+      "LOVE"
+    ]
+  },
+  "hashtags": [],
+  "mentions": [],
+  "media": [],
+  "article": null,
+  "externalLinks": [],
+  "isRepost": false,
+  "isQuotePost": true,
+  "originalPost": {
+    "postId": null,
+    "postUrl": null,
+    "author": {
+      "name": "Jacob Andreou",
+      "headline": null,
+      "profileUrl": "https://www.linkedin.com/in/jacob-andreou/",
+      "publicIdentifier": "jacob-andreou",
+      "profileId": null,
+      "profilePictureUrl": null,
+      "type": "PERSON"
+    },
+    "text": "The New Bottleneck\n\nThe bottleneck is no longer intelligence.\n\nOver the last six months, intelligence has accelerated dramatically. But smarter models are not enough for everyone to benefit from novel intelligence. New form factors are required.\n\nGPT-3 needed Chat.\nOpus 4.5 needed Code and Cowork.\n\nToday, with Astra and Fable, we’re in a familiar position. Intelligence is advancing faster than it can reach people in useful forms. The model overhang is back.\n\nThe new bottleneck is diffusion. Increased intelligence needs to translate to human progress.\n\nMicrosoft’s mission is to empower every person and every organization to achieve more. If we fail to create new ways to utilize increased intelligence, this mission is at risk.\n\nThe New Copilot\n\nOur next step is the new Copilot. Home, Code, and Autopilot.\n\nHome is your new starting point, unifying Chat and Cowork into a single experience. Ask a quick question or delegate a whole project. No need to decide where to start.\n\nHome also features Today, our new proactive view that spans Outlook, Teams, meetings, and tasks. Today doesn’t just flag things you missed; it moves work forward. The draft is already written, and the schedule change is already proposed.\n\nWe’re also bringing Office into Copilot. For the first time, you don’t have to choose between AI editing and human collaboration. We’ve brought the full power of Word, Excel, and PowerPoint into Copilot, so you can create, edit, and collaborate with colleagues and Copilot at the same time.\n\nNext, Code is coming to Copilot. Models can write code but environments, hosting, and sharing get in the way. With Code, just describe an app, tracker or workflow in plain English. Code runs sandboxed on your machine or safely in your tenant in the cloud. Now, hosting and sharing an app is as easy as a Word document.\n\nFinally, Autopilot. Your digital teammate. Give it a name, an appearance, a role, and a goal. Your Autopilot has it’s own identity, memory, computer, and workspace. Autopilot is enterprise grade, with real permissions, audit, and governance, all from Agent365. It can monitor work, coordinate with your team, and keep projects running over weeks -- just tag it in a document, forward it an email, or message it on Teams!\n\nHome. Code. Autopilot.\n\nIntelligence is here. Put it to work.",
+    "publishedAt": null,
+    "hashtags": [],
+    "mentions": [],
+    "media": [
+      {
+        "type": "IMAGE",
+        "url": "https://media.licdn.com/dms/image/v2/D5622AQEH-m-2UytgOg/feedshare-shrink_800/B56aDYqvCaKwAc-/0/1790341477125?e=2147483647&v=beta&t=7MlicAwc9VxQAa8oZ-MEzsInlPP_GR_u5DTJKXLqITo",
+        "thumbnailUrl": null,
+        "title": null,
+        "description": null,
+        "width": null,
+        "height": null
+      }
+    ],
+    "engagement": null
+  },
+  "topComments": [],
+  "dataQuality": "FULL",
+  "positionInFeed": 9,
+  "discoveredVia": "public_profile",
+  "sourceProfileUrl": "https://www.linkedin.com/in/satyanadella/",
+  "sourceProfileName": "Satya Nadella",
+  "input": "https://www.linkedin.com/in/satyanadella/",
+  "scrapedAt": "2026-10-10T12:22:29.108Z"
+},
+{
+  "rowType": "post",
+  "postId": "urn:li:activity:7514069962865500160",
+  "urn": "urn:li:activity:7514069962865500160",
+  "activityId": "7514069962865500160",
+  "postUrl": "https://www.linkedin.com/posts/williamhgates_those-white-clouds-you-see-behind-planes-activity-7514069962865500160-CDii",
+  "postType": "POST",
+  "text": "Those white clouds you see behind planes are not emissions or chemicals. They’re clouds that form when planes fly through cold, humid air, and they are responsible for half of the global warming caused by aviation. Fortunately, it’s a relatively easy fix.",
+  "publishedAt": "2026-10-08T21:11:23.815Z",
+  "publishedAtSource": "post",
+  "isEdited": false,
+  "author": {
+    "name": "Bill Gates",
+    "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+    "profileUrl": "https://www.linkedin.com/in/williamhgates/",
+    "publicIdentifier": "williamhgates",
+    "profileId": "urn:li:member:251749025",
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_200_200/B56ZRi8g.aGsAY-/0/1736826818802?e=2147483647&v=beta&t=bKWfN6UwwtiCqFWsG7rBELbd48qJOAMLdxhBzzkJV0k"
+  },
+  "engagement": {
+    "reactionsCount": 2717,
+    "commentsCount": 350,
+    "repostsCount": null,
+    "reactionBreakdown": null,
+    "topReactionTypes": [
+      "LIKE",
+      "INSIGHTFUL",
+      "LOVE"
+    ]
+  },
+  "hashtags": [],
+  "mentions": [],
+  "media": [
+    {
+      "type": "VIDEO",
+      "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQFzJVDrYTX10g/mp4-720p-30fp-crf28/B4EaEdWwG1KgB4-/0/1791493877587?e=2147483647&v=beta&t=VGrJhNJNFWfND_-OG4e9Xp6kWN7XG3KQmSTcU1QDTXM",
+      "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4E05AQFzJVDrYTX10g/videocover-high/B4EaEdWwG1KgBI-/0/1791493872668?e=2147483647&v=beta&t=fZIV5-RZdZLFeBp_Avzc27viHlmh4lbOoNH7KjMQMG8",
+      "title": null,
+      "description": null,
+      "width": 1280,
+      "height": 720,
+      "durationSeconds": 60
+    }
+  ],
+  "article": null,
+  "externalLinks": [],
+  "isRepost": false,
+  "isQuotePost": false,
+  "originalPost": null,
+  "topComments": [],
+  "dataQuality": "FULL",
+  "positionInFeed": 1,
+  "discoveredVia": "public_profile",
+  "sourceProfileUrl": "https://www.linkedin.com/in/williamhgates/",
+  "sourceProfileName": "Bill Gates",
+  "input": "williamhgates",
+  "scrapedAt": "2026-10-10T12:22:22.138Z"
+},
+{
+  "rowType": "post",
+  "postId": "urn:li:activity:7513737675791646720",
+  "urn": "urn:li:activity:7513737675791646720",
+  "activityId": "7513737675791646720",
+  "postUrl": "https://www.linkedin.com/posts/williamhgates_preventing-contrails-those-white-lines-activity-7513737675791646720-T3Y1",
+  "postType": "POST",
+  "text": "Preventing contrails — those white lines you sometimes see forming behind a plane as it flies — could eliminate about half of the temperature increase caused by aviation, or up to 2% of *all* global warming. That’s a mind-blowing impact for a relatively cheap and easy-to-solve problem: https://lnkd.in/e9hUEJNC",
+  "publishedAt": "2026-10-07T23:11:00.403Z",
+  "publishedAtSource": "post",
+  "isEdited": false,
+  "author": {
+    "name": "Bill Gates",
+    "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+    "profileUrl": "https://www.linkedin.com/in/williamhgates/",
+    "publicIdentifier": "williamhgates",
+    "profileId": "urn:li:member:251749025",
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_200_200/B56ZRi8g.aGsAY-/0/1736826818802?e=2147483647&v=beta&t=bKWfN6UwwtiCqFWsG7rBELbd48qJOAMLdxhBzzkJV0k"
+  },
+  "engagement": {
+    "reactionsCount": 1355,
+    "commentsCount": 223,
+    "repostsCount": null,
+    "reactionBreakdown": null,
+    "topReactionTypes": [
+      "LIKE",
+      "INSIGHTFUL",
+      "LOVE"
+    ]
+  },
+  "hashtags": [],
+  "mentions": [],
+  "media": [
+    {
+      "type": "IMAGE",
+      "url": "https://media.licdn.com/dms/image/v2/D4E22AQF0mg8nFe9kgA/feedshare-image-high-res/B4EaEYohp8J0AU-/0/1791414647246?e=2147483647&v=beta&t=LDXnDFmh-MzR0clmnKFbfcCy7tC448KNoKPysv8ayTI",
+      "thumbnailUrl": null,
+      "title": null,
+      "description": null,
+      "width": null,
+      "height": null
+    }
+  ],
+  "article": null,
+  "externalLinks": [
+    "https://lnkd.in/e9hUEJNC"
+  ],
+  "isRepost": false,
+  "isQuotePost": false,
+  "originalPost": null,
+  "topComments": [],
+  "dataQuality": "FULL",
+  "positionInFeed": 2,
+  "discoveredVia": "public_profile",
+  "sourceProfileUrl": "https://www.linkedin.com/in/williamhgates/",
+  "sourceProfileName": "Bill Gates",
+  "input": "williamhgates",
+  "scrapedAt": "2026-10-10T12:22:28.506Z"
+},
+{
+  "rowType": "post",
+  "postId": "urn:li:activity:7513316263134162944",
+  "urn": "urn:li:activity:7513316263134162944",
+  "activityId": "7513316263134162944",
+  "postUrl": "https://www.linkedin.com/posts/williamhgates_in-places-like-bangladesh-where-populations-activity-7513316263134162944-jKiJ",
+  "postType": "POST",
+  "text": "In places like Bangladesh, where populations are dense and safe sanitation is limited, cholera can be deadly—even though it’s preventable. Dr. Firdausi Qadri’s work shows how affordable oral vaccines can protect more people and save more lives.",
+  "publishedAt": "2026-10-06T19:16:27.796Z",
+  "publishedAtSource": "post",
+  "isEdited": false,
+  "author": {
+    "name": "Bill Gates",
+    "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+    "profileUrl": "https://www.linkedin.com/in/williamhgates/",
+    "publicIdentifier": "williamhgates",
+    "profileId": "urn:li:member:251749025",
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_200_200/B56ZRi8g.aGsAY-/0/1736826818802?e=2147483647&v=beta&t=bKWfN6UwwtiCqFWsG7rBELbd48qJOAMLdxhBzzkJV0k"
+  },
+  "engagement": {
+    "reactionsCount": 1247,
+    "commentsCount": 155,
+    "repostsCount": null,
+    "reactionBreakdown": null,
+    "topReactionTypes": [
+      "LIKE",
+      "LOVE",
+      "SUPPORT"
+    ]
+  },
+  "hashtags": [],
+  "mentions": [],
+  "media": [
+    {
+      "type": "VIDEO",
+      "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQEZKttyDS5mQQ/mp4-720p-30fp-crf28/B4EaESpP7HI4B8-/0/1791314177909?e=2147483647&v=beta&t=-DY05ERafTIYXHY8j8N_8Sqltjs1UgbdMEmLRb_CtEU",
+      "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4E05AQEZKttyDS5mQQ/videocover-high/B4EaESpP7HI4BM-/0/1791314170687?e=2147483647&v=beta&t=heWhlisoOj42h32aEFkmAXsnoAAK6aCa1VEvBTkTvbY",
+      "title": null,
+      "description": null,
+      "width": 720,
+      "height": 1280,
+      "durationSeconds": 74
+    }
+  ],
+  "article": null,
+  "externalLinks": [],
+  "isRepost": false,
+  "isQuotePost": false,
+  "originalPost": null,
+  "topComments": [],
+  "dataQuality": "FULL",
+  "positionInFeed": 3,
+  "discoveredVia": "public_profile",
+  "sourceProfileUrl": "https://www.linkedin.com/in/williamhgates/",
+  "sourceProfileName": "Bill Gates",
+  "input": "williamhgates",
+  "scrapedAt": "2026-10-10T12:22:21.098Z"
+},
+{
+  "rowType": "post",
+  "postId": "urn:li:activity:7512721327569657856",
+  "urn": "urn:li:activity:7512721327569657856",
+  "activityId": "7512721327569657856",
+  "postUrl": "https://www.linkedin.com/posts/williamhgates_not-that-long-ago-a-simple-infection-could-activity-7512721327569657856-jFDu",
+  "postType": "POST",
+  "text": "Not that long ago, a simple infection could kill you. But with the discovery of antibiotics, medicine was changed forever.",
+  "publishedAt": "2026-10-05T03:52:24.104Z",
+  "publishedAtSource": "post",
+  "isEdited": false,
+  "author": {
+    "name": "Bill Gates",
+    "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+    "profileUrl": "https://www.linkedin.com/in/williamhgates/",
+    "publicIdentifier": "williamhgates",
+    "profileId": "urn:li:member:251749025",
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_200_200/B56ZRi8g.aGsAY-/0/1736826818802?e=2147483647&v=beta&t=bKWfN6UwwtiCqFWsG7rBELbd48qJOAMLdxhBzzkJV0k"
+  },
+  "engagement": {
+    "reactionsCount": 2473,
+    "commentsCount": 283,
+    "repostsCount": null,
+    "reactionBreakdown": null,
+    "topReactionTypes": [
+      "LIKE",
+      "LOVE",
+      "CELEBRATE"
+    ]
+  },
+  "hashtags": [],
+  "mentions": [],
+  "media": [
+    {
+      "type": "VIDEO",
+      "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQFekIZqM92k-w/mp4-720p-30fp-crf28/B4EaEKML66J8B4-/0/1791172337412?e=2147483647&v=beta&t=3y4G2JYaUTIP7Nl4ye_-wfjFs1gPQDv3QcV92U3tsiU",
+      "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4E05AQFekIZqM92k-w/videocover-high/B4EaEKML66J8BI-/0/1791172334332?e=2147483647&v=beta&t=sFESXkkqMTPjrB0gnuYdttzcrzBo-92LQLNZy_LavNE",
+      "title": null,
+      "description": null,
+      "width": 1280,
+      "height": 720,
+      "durationSeconds": 47
+    }
+  ],
+  "article": null,
+  "externalLinks": [],
+  "isRepost": false,
+  "isQuotePost": false,
+  "originalPost": null,
+  "topComments": [],
+  "dataQuality": "FULL",
+  "positionInFeed": 4,
+  "discoveredVia": "public_profile",
+  "sourceProfileUrl": "https://www.linkedin.com/in/williamhgates/",
+  "sourceProfileName": "Bill Gates",
+  "input": "williamhgates",
+  "scrapedAt": "2026-10-10T12:22:22.052Z"
+},
+{
+  "rowType": "post",
+  "postId": "urn:li:activity:7511951889291456512",
+  "urn": "urn:li:activity:7511951889291456512",
+  "activityId": "7511951889291456512",
+  "postUrl": "https://www.linkedin.com/posts/williamhgates_how-do-you-think-an-ai-tool-could-make-a-activity-7511951889291456512-LIWL",
+  "postType": "QUOTE_POST",
+  "text": "We need more ideas like these to get the most out of AI.",
+  "publishedAt": "2026-10-03T00:54:55.723Z",
+  "publishedAtSource": "post",
+  "isEdited": false,
+  "author": {
+    "name": "Bill Gates",
+    "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+    "profileUrl": "https://www.linkedin.com/in/williamhgates/",
+    "publicIdentifier": "williamhgates",
+    "profileId": "urn:li:member:251749025",
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_200_200/B56ZRi8g.aGsAY-/0/1736826818802?e=2147483647&v=beta&t=bKWfN6UwwtiCqFWsG7rBELbd48qJOAMLdxhBzzkJV0k"
+  },
+  "engagement": {
+    "reactionsCount": 1088,
+    "commentsCount": 239,
+    "repostsCount": null,
+    "reactionBreakdown": null,
+    "topReactionTypes": [
+      "LIKE",
+      "LOVE",
+      "CELEBRATE"
+    ]
+  },
+  "hashtags": [],
+  "mentions": [],
+  "media": [],
+  "article": null,
+  "externalLinks": [],
+  "isRepost": false,
+  "isQuotePost": true,
+  "originalPost": {
+    "postId": null,
+    "postUrl": null,
+    "author": {
+      "name": "Gates Foundation",
+      "headline": null,
+      "profileUrl": "https://www.linkedin.com/company/gates-foundation/",
+      "publicIdentifier": "gates-foundation",
+      "profileId": null,
+      "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D560BAQEgMqqFTd40Tg/company-logo_100_100/company-logo_100_100/0/1736784969376/bill__melinda_gates_foundation_logo?e=2147483647&v=beta&t=2JH2cMcZms60vPAMbvVZyMeYXosQ1Jjy5axDlyeQ1Ww",
+      "type": "COMPANY"
+    },
+    "text": "Hopeful, curious, unsure, and just about everything in between.\n\nWe asked our Optimist readers how they’re thinking about AI and the difference it could make in their own work and communities. Swipe to see what they had to say. ➡️\n\nWant in on the next conversation? Subscribe to The Optimist today: gates.ly/47u34fW",
+    "publishedAt": null,
+    "hashtags": [],
+    "mentions": [],
+    "media": [
+      {
+        "type": "DOCUMENT",
+        "url": "https://media.licdn.com/dms/document/pl/v2/D5610AQGKwaU27TE-Xw/ads-document-master-manifest/B56aD4McuHHIBI-/0/1790870411743?e=2147483647&v=beta&t=X-SL5cyiPox6M0289aSvod59ucltVV3UzeBZZlWp6Lg",
+        "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D5610AQGKwaU27TE-Xw/ads-document-cover-images_480/B56aD4McuHHIAw-/0/1790870410619?e=2147483647&v=beta&t=h39Wu5DM-6OXh2gYPKrO_FY_If2vWQeHWVHu9Vej93E",
+        "title": "How do you think an AI tool could make a positive difference in your work or community?",
+        "description": null,
+        "width": null,
+        "height": null,
+        "pageCount": 7
+      }
+    ],
+    "engagement": null
+  },
+  "topComments": [],
+  "dataQuality": "FULL",
+  "positionInFeed": 5,
+  "discoveredVia": "public_profile",
+  "sourceProfileUrl": "https://www.linkedin.com/in/williamhgates/",
+  "sourceProfileName": "Bill Gates",
+  "input": "williamhgates",
+  "scrapedAt": "2026-10-10T12:22:22.242Z"
+},
+{
+  "rowType": "post",
+  "postId": "urn:li:activity:7511544945862926336",
+  "urn": "urn:li:activity:7511544945862926336",
+  "activityId": "7511544945862926336",
+  "postUrl": "https://www.linkedin.com/posts/williamhgates_results-report-2026-activity-7511544945862926336-2Ger",
+  "postType": "POST",
+  "text": "The Global Fund has helped save 72 million lives since 2002. What an achievement. It’s exceedingly rare for an organization to work this well, this consistently, for this long.\n\nBut we can’t get complacent. Donor funding cuts last year forced low-and middle-income countries to make impossible choices about how they address national health issues, including HIV, TB and malaria. Their resilience in spite of that has been remarkable, but there’s still so much work to do. Supporting the Global Fund is one of the best investments we can make in the health and well-being of future generations.",
+  "publishedAt": "2026-10-01T21:57:52.849Z",
+  "publishedAtSource": "post",
+  "isEdited": true,
+  "author": {
+    "name": "Bill Gates",
+    "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+    "profileUrl": "https://www.linkedin.com/in/williamhgates/",
+    "publicIdentifier": "williamhgates",
+    "profileId": "urn:li:member:251749025",
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_200_200/B56ZRi8g.aGsAY-/0/1736826818802?e=2147483647&v=beta&t=bKWfN6UwwtiCqFWsG7rBELbd48qJOAMLdxhBzzkJV0k"
+  },
+  "engagement": {
+    "reactionsCount": 1443,
+    "commentsCount": 188,
+    "repostsCount": null,
+    "reactionBreakdown": null,
+    "topReactionTypes": [
+      "LIKE",
+      "CELEBRATE",
+      "LOVE"
+    ]
+  },
+  "hashtags": [],
+  "mentions": [],
+  "media": [
+    {
+      "type": "ARTICLE",
+      "url": "https://www.theglobalfund.org/en/results/",
+      "thumbnailUrl": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHTj_DWx2hKFQ/articleshare-shrink_800/B4EaCpOOz7IgAg-/0/1789545475720?e=2147483647&v=beta&t=8q6JOvCJUwHK8HKPx8A0jyXYaRyrk5pNrhHghpjz3Rc",
+      "title": "Results Report 2026",
+      "description": null,
+      "width": null,
+      "height": null
+    }
+  ],
+  "article": {
+    "url": "https://www.theglobalfund.org/en/results/",
+    "title": "Results Report 2026",
+    "description": null,
+    "thumbnailUrl": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHTj_DWx2hKFQ/articleshare-shrink_800/B4EaCpOOz7IgAg-/0/1789545475720?e=2147483647&v=beta&t=8q6JOvCJUwHK8HKPx8A0jyXYaRyrk5pNrhHghpjz3Rc",
+    "publisher": "theglobalfund.org"
+  },
+  "externalLinks": [
+    "https://www.theglobalfund.org/en/results/"
+  ],
+  "isRepost": false,
+  "isQuotePost": false,
+  "originalPost": null,
+  "topComments": [],
+  "dataQuality": "FULL",
+  "positionInFeed": 6,
+  "discoveredVia": "public_profile",
+  "sourceProfileUrl": "https://www.linkedin.com/in/williamhgates/",
+  "sourceProfileName": "Bill Gates",
+  "input": "williamhgates",
+  "scrapedAt": "2026-10-10T12:22:23.249Z"
+},
+{
+  "rowType": "post",
+  "postId": "urn:li:activity:7511520890451296256",
+  "urn": "urn:li:activity:7511520890451296256",
+  "activityId": "7511520890451296256",
+  "postUrl": "https://www.linkedin.com/posts/williamhgates_carnegie-mellon-university-announces-historic-activity-7511520890451296256-tv-D",
+  "postType": "POST",
+  "text": "Ken’s incredible generosity will make a huge, lasting impact.",
+  "publishedAt": "2026-10-01T20:22:17.591Z",
+  "publishedAtSource": "post",
+  "isEdited": true,
+  "author": {
+    "name": "Bill Gates",
+    "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+    "profileUrl": "https://www.linkedin.com/in/williamhgates/",
+    "publicIdentifier": "williamhgates",
+    "profileId": "urn:li:member:251749025",
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_200_200/B56ZRi8g.aGsAY-/0/1736826818802?e=2147483647&v=beta&t=bKWfN6UwwtiCqFWsG7rBELbd48qJOAMLdxhBzzkJV0k"
+  },
+  "engagement": {
+    "reactionsCount": 873,
+    "commentsCount": 105,
+    "repostsCount": null,
+    "reactionBreakdown": null,
+    "topReactionTypes": [
+      "LIKE",
+      "CELEBRATE",
+      "LOVE"
+    ]
+  },
+  "hashtags": [],
+  "mentions": [],
+  "media": [
+    {
+      "type": "ARTICLE",
+      "url": "https://www.cmu.edu/news/stories/archives/2026/september/carnegie-mellon-university-announces-historic-3-billion-gift-from-ken-griffin-pioneering-a-new-model",
+      "thumbnailUrl": "https://media.licdn.com/dms/image/sync/v2/D4D27AQFXfTYS0RQ31w/articleshare-shrink_1280_800/B4DaDxjSSLIkAg-/0/1790758954593?e=2147483647&v=beta&t=ouk_nbrqvrnN-7p1TknQTRDAxCMfL_kEzUDlP0qrKl0",
+      "title": "Carnegie Mellon University Announces Historic $3 Billion Gift from Ken Griffin, Pioneering a New Model for Higher Education",
+      "description": null,
+      "width": null,
+      "height": null
+    }
+  ],
+  "article": {
+    "url": "https://www.cmu.edu/news/stories/archives/2026/september/carnegie-mellon-university-announces-historic-3-billion-gift-from-ken-griffin-pioneering-a-new-model",
+    "title": "Carnegie Mellon University Announces Historic $3 Billion Gift from Ken Griffin, Pioneering a New Model for Higher Education",
+    "description": null,
+    "thumbnailUrl": "https://media.licdn.com/dms/image/sync/v2/D4D27AQFXfTYS0RQ31w/articleshare-shrink_1280_800/B4DaDxjSSLIkAg-/0/1790758954593?e=2147483647&v=beta&t=ouk_nbrqvrnN-7p1TknQTRDAxCMfL_kEzUDlP0qrKl0",
+    "publisher": "cmu.edu"
+  },
+  "externalLinks": [
+    "https://www.cmu.edu/news/stories/archives/2026/september/carnegie-mellon-university-announces-historic-3-billion-gift-from-ken-griffin-pioneering-a-new-model"
+  ],
+  "isRepost": false,
+  "isQuotePost": false,
+  "originalPost": null,
+  "topComments": [],
+  "dataQuality": "FULL",
+  "positionInFeed": 7,
+  "discoveredVia": "public_profile",
+  "sourceProfileUrl": "https://www.linkedin.com/in/williamhgates/",
+  "sourceProfileName": "Bill Gates",
+  "input": "williamhgates",
+  "scrapedAt": "2026-10-10T12:22:23.105Z"
+},
+{
+  "rowType": "post",
+  "postId": "urn:li:activity:7511166367799279616",
+  "urn": "urn:li:activity:7511166367799279616",
+  "activityId": "7511166367799279616",
+  "postUrl": "https://www.linkedin.com/posts/williamhgates_goalkeepers-2026-activity-7511166367799279616-uOOZ",
+  "postType": "POST",
+  "text": "AI presents the world with big questions and even bigger challenges. This week in New York, I heard many different perspectives and came away with a lot to think about. The good news is that there are reasons to believe we can keep making progress and use AI to solve some of our toughest problems.",
+  "publishedAt": "2026-09-30T20:53:32.804Z",
+  "publishedAtSource": "post",
+  "isEdited": false,
+  "author": {
+    "name": "Bill Gates",
+    "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+    "profileUrl": "https://www.linkedin.com/in/williamhgates/",
+    "publicIdentifier": "williamhgates",
+    "profileId": "urn:li:member:251749025",
+    "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_200_200/B56ZRi8g.aGsAY-/0/1736826818802?e=2147483647&v=beta&t=bKWfN6UwwtiCqFWsG7rBELbd48qJOAMLdxhBzzkJV0k"
+  },
+  "engagement": {
+    "reactionsCount": 2169,
+    "commentsCount": 420,
+    "repostsCount": null,
+    "reactionBreakdown": null,
+    "topReactionTypes": [
+      "LIKE",
+      "LOVE",
+      "CELEBRATE"
+    ]
+  },
+  "hashtags": [],
+  "mentions": [],
+  "media": [
+    {
+      "type": "DOCUMENT",
+      "url": "https://media.licdn.com/dms/document/pl/v2/D4E1FAQGpFkNDVHLEvg/feedshare-document-master-manifest/B4EaD0FzaeKsBc-/0/1790801568587?e=2147483647&v=beta&t=xrByoJXOf5PWEchaAEik5ZY8hV97xtGWGuWZUSP7nDg",
+      "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4E1FAQGpFkNDVHLEvg/feedshare-document-cover-images_480/B4EaD0FzaeKsBI-/0/1790801568588?e=2147483647&v=beta&t=cK3-_4l7XsynNiQv3s_nD0IUydptX0hrNiaPPaYo7VI",
+      "title": "Goalkeepers 2026",
+      "description": null,
+      "width": null,
+      "height": null,
+      "pageCount": 5
+    }
+  ],
+  "article": null,
+  "externalLinks": [],
+  "isRepost": false,
+  "isQuotePost": false,
+  "originalPost": null,
+  "topComments": [],
+  "dataQuality": "FULL",
+  "positionInFeed": 8,
+  "discoveredVia": "public_profile",
+  "sourceProfileUrl": "https://www.linkedin.com/in/williamhgates/",
+  "sourceProfileName": "Bill Gates",
+  "input": "williamhgates",
+  "scrapedAt": "2026-10-10T12:22:29.404Z"
+}]
